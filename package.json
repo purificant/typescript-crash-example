@@ -1,0 +1,13 @@
+{
+  "name": "typescript-crash-example",
+  "description": "proof of concept code to reproduce crash in typescript 2.9.2",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "2.9.2"
+  }
+}
